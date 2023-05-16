@@ -1,18 +1,18 @@
 # Nro-Termux
-của Mạnh
-<br/>
+của Mạnh 
+<br/>https://github.com/Mad-Neko 
 
 <p align="center">
 
-  <a href="https://github.com/hoangluu201-
+  https://github.com/hoangluu201-
 
-  /Nro-Termux">
+Nro Termux Offline 
 
     
 
   <h3 align="center">Ngọc Rồng Offline</h3>
 
-  <p align="center">Chưa cập nhập 
+  <p align="center">Đang Chạy
 
 ## Table Of Contents
 
